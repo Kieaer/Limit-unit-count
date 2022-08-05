@@ -1,0 +1,7 @@
+{
+  "name": "Limit-unit-count",
+  "author": "Kieaer",
+  "main": "Main",
+  "description": "Specifies the maximum number of units per map.",
+  "version": "1"
+}
